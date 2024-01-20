@@ -45,6 +45,8 @@ I downloaded the text from the website.
 ## Cleaning and/or Preprocessing Steps
 
 removing extra spaces in the texts
+
+checking typos in the texts and correcting these errors
  
 merging the metadata csv and txt files
 
