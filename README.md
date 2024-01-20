@@ -2,25 +2,29 @@
 
 ## Corpus
 
-This is a corpus containing all lyrics of Mazzy Star's albums.
+This is a corpus containing all the lyrics of Mazzy Star's albums.
 
 Mazzy Star is an American alternative rock band.
 
 The language of the corpus is English.
 
-It consistds of txt files, metadata csv files, metadata and linguistic annotation csv files, and preprocess and annotation process codes on a Jupyternotebook file.
+Due to copyright, the lyric corpus in txt files is not uploaded.
+
+## This Repository
+
+It consists of metadata csv files, metadata and linguistic annotation csv files, and preprocess and annotation process codes on a Jupyternotebook file.
 
 Metadata and data sources are <https://www.azlyrics.com/m/mazzystar.html> and <https://genius.com/artists/Mazzy-star>
 
-If there is any missing items, please provide me with information. I will supple as soon as possible.
+If there are any missing items, please provide me with the information. I will supply as soon as possible.
 
-The corpus may be updated in the future if Mazzy Star realse new creations.
+The corpus may be updated in the future if Mazzy Star realise new creations.
 
 ## Target Audience 
 
 Mazzy Star fans
 
-Researchers in the field of linguistic, music,culture analysis, literature, media, .etc
+Researchers in the fields of linguistics, music studies, culture analysis, literature studies, media studies, .etc
 
 ## Intended Use
 
@@ -41,6 +45,8 @@ I downloaded the text from the website.
 ## Cleaning and/or Preprocessing Steps
 
 removing extra spaces in the texts
+
+fixing documents by checking typos in the texts and correcting these errors
  
 merging the metadata csv and txt files
 
@@ -48,7 +54,7 @@ merging the metadata csv and txt files
 
 tool: spaCy
 
-annotations: Doc, tokens,lemmas, POS, proper nouns, named entities, corresponding words to named entities
+annotations: Doc, tokens, lemmas, POS, proper nouns, named entities, corresponding words to named entities
 
 ## Format of the Files in the Corpus
 
