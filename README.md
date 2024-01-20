@@ -24,7 +24,7 @@ The corpus may be updated in the future if Mazzy Star realise new creations.
 
 Mazzy Star fans
 
-Researchers in the field of linguistics, music, culture analysis, literature, media, .etc
+Researchers in the fields of linguistics, music studies, culture analysis, literature studies, media studies, .etc
 
 ## Intended Use
 
