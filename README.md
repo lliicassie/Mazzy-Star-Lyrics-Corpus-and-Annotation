@@ -8,6 +8,8 @@ Mazzy Star is an American alternative rock band.
 
 The language of the corpus is English.
 
+Due to copyright, the lyric corpus in txt files is not uploaded.
+
 It consists of metadata csv files, metadata and linguistic annotation csv files, and preprocess and annotation process codes on a Jupyternotebook file.
 
 Metadata and data sources are <https://www.azlyrics.com/m/mazzystar.html> and <https://genius.com/artists/Mazzy-star>
