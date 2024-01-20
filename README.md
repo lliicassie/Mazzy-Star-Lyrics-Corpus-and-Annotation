@@ -72,6 +72,8 @@ TYPE	: in which form the song of the lyric was released, in an album, in the EP 
 
 Text: the contents of the lyric
 
+Document: the original text exactly as it appears in the text file
+
 Doc: the original text and all of the linguistic annotations obtained when spaCy processed the text
 
 Tokens: a list of tokens where the words, spaces, and punctuation markers in the Tokens column are separated by commas
