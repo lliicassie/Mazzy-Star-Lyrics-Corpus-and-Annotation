@@ -46,7 +46,7 @@ I downloaded the text from the website.
 
 removing extra spaces in the texts
 
-checking typos in the texts and correcting these errors
+fixing documents by checking typos in the texts and correcting these errors
  
 merging the metadata csv and txt files
 
